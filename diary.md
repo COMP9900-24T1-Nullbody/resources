@@ -68,11 +68,11 @@
 ### Week 5
 
 #### Scrum Master - z5402003, Chih Ning Lee
-·   
-· 
+· Prepared Demo A.  
+· Checked each team member’s Sprint 1 completion level.
 
 #### Front-End Programmers - z5192519, Shi Tong Yuan & z5399053, Sirui Meng
-·     
+· Completed the profile page and history analysis page.    
 · 
 
 #### Back-End Programmers - z5236702, Si Chen & z5472548, Qinfei Chen
