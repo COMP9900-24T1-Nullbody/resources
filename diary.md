@@ -60,4 +60,5 @@
 
 #### Back-End Programmers - z5236702, Si Chen & z5472548, Qinfei Chen
 · Optimize database queries to improve performance based on feedback from the previous sprint.    
-· 
+· Completed the password reset function in Sprint1.  
+· Try to practice specific algorithms in the ESG framework.
