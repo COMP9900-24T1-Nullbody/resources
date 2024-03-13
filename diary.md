@@ -62,3 +62,20 @@
 · Optimize database queries to improve performance based on feedback from the previous sprint.    
 · Completed the password reset function in Sprint1.  
 · Try to practice specific algorithms in the ESG framework.
+
+
+
+### Week 5
+
+#### Scrum Master - z5402003, Chih Ning Lee
+·   
+· 
+
+#### Front-End Programmers - z5192519, Shi Tong Yuan & z5399053, Sirui Meng
+·     
+· 
+
+#### Back-End Programmers - z5236702, Si Chen & z5472548, Qinfei Chen
+·     
+·   
+· 
