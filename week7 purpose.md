@@ -4,4 +4,9 @@ user history 加一个侧边栏折叠 》》》》》》
 日间模式弄成白体黑子
 login 和 register 带个框 》》》》》
 背景图片加模糊
-profile 上面删掉
+profile 
+
+
+
+week 8 把灯泡的效果换成缩略
+加一个搜索栏，对于搜索公司名称
